@@ -26,7 +26,7 @@ namespace ConsoleView
 
             Console.WriteLine(" - Clientes - ");
             Console.WriteLine("1 - Cadastrar Novo");
-            Console.WriteLine("2 -aaaaaaaaa Pesquisar Cliente");
+            Console.WriteLine("2 - Pesquisar Cliente");
             Console.WriteLine("3 - Listar Clientes Cadastrados");
             Console.WriteLine("4 - Editar Cliente");
             Console.WriteLine("5 - Excluir Cliente");
