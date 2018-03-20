@@ -24,7 +24,7 @@ namespace ConsoleView
             Console.WriteLine("Escolha sua opcao");
             Console.WriteLine("");
 
-            Console.WriteLine(" - Clientes - ");
+            Console.WriteLine(" - Clrientes - ");
             Console.WriteLine("1 - Cadastrar Novo");
             Console.WriteLine("2 - Pesquisar Cliente");
             Console.WriteLine("3 - Listar Clientes Cadastrados");
